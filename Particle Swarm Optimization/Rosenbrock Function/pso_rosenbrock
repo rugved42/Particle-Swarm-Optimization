@@ -1,0 +1,16 @@
+ Function: Rosebrock_Function
+ Number of Particles: 100
+ Number of Design Variables: 3
+ Domain:(-2.048, 2.048)
+Run:0/10 Global_Best:1.1661121371489689e-05 Global_Best_Position:[0.9991016477315589, 0.9980097233355596, 0.9961998889596547]
+Run:1/10 Global_Best:3.805396066017321e-11 Global_Best_Position:[1.0000003149728356, 1.0000000295700942, 0.999999920981472]
+Run:2/10 Global_Best:5.979086746612417e-17 Global_Best_Position:[1.0000000019945456, 1.0000000038900958, 1.0000000084102694]
+Run:3/10 Global_Best:9.480831384569767e-23 Global_Best_Position:[0.9999999999958045, 0.9999999999914778, 0.9999999999831247]
+Run:4/10 Global_Best:5.6107731883844465e-28 Global_Best_Position:[1.0000000000000062, 1.0000000000000142, 1.0000000000000282]
+Run:5/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+Run:6/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+Run:7/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+Run:8/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+Run:9/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+Run:10/10 Global_Best:0.0 Global_Best_Position:[1.0, 1.0, 1.0]
+
